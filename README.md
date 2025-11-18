@@ -11,7 +11,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor]
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-- [Author](#author)
 
 
 ## Overview
@@ -51,9 +50,6 @@ helps in vertical alignment. I also practiced using Google Fonts and
 improved my understanding of responsive card layouts.
 
 
-## Author
-
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
 
 
